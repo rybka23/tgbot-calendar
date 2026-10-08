@@ -1,2 +1,5 @@
 .env
 client_secret_*.json
+token.json
+*.log
+bin/
